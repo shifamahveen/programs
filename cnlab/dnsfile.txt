@@ -1,0 +1,2 @@
+google.com	192.168.42.30
+mjcollege.ac.in	120.223.18.0
